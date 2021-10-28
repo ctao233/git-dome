@@ -12,6 +12,7 @@ hello atao , hello git
 hello atao , hello git
 hello atao , hello git
 hello atao , hello git master test 
+hello atao , hello git hot-fix test 
 22222
 22222
 22222
@@ -20,4 +21,3 @@ hello atao , hello git master test
 22222
 22222
 22222
-
